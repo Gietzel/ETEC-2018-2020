@@ -1,0 +1,24 @@
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\bin\Debug\projetofilmes.exe.config
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\bin\Debug\projetofilmes.exe
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\bin\Debug\projetofilmes.pdb
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.csprojResolveAssemblyReference.cache
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.Form1.resources
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.loading.resources
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.Properties.Resources.resources
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.csproj.GenerateResource.Cache
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.exe
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.pdb
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.cadastrodefilmes.resources
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.choice.resources
+F:\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.manutencaodefilmes.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.csprojAssemblyReference.cache
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.cadastrodefilmes.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.choice.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.Form1.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.loading.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.manutencaodefilmes.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.Properties.Resources.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.csproj.GenerateResource.cache
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.csproj.CoreCompileInputs.cache
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.exe
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\Projeto Filmes 2019\projetofilmes\projetofilmes\obj\Debug\projetofilmes.pdb

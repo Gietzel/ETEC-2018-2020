@@ -1,0 +1,24 @@
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\bin\Debug\CadastroEmpresa.exe.config
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.csprojResolveAssemblyReference.cache
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.Form1.resources
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.Menu.resources
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.Properties.Resources.resources
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.csproj.GenerateResource.Cache
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\bin\Debug\CadastroEmpresa.exe
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\bin\Debug\CadastroEmpresa.pdb
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.exe
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.pdb
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.frmfuncionario.resources
+c:\users\33572\documents\visual studio 2015\Projects\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.frmcliente.resources
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\bin\Debug\CadastroEmpresa.exe.config
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.exe
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.pdb
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\bin\Debug\CadastroEmpresa.exe
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\bin\Debug\CadastroEmpresa.pdb
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.csprojResolveAssemblyReference.cache
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.frmfuncionario.resources
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.Form1.resources
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.frmcliente.resources
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.Menu.resources
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.Properties.Resources.resources
+F:\Lógica ][\CadastroEmpresa\CadastroEmpresa\obj\Debug\CadastroEmpresa.csproj.GenerateResource.Cache

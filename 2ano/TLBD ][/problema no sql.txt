@@ -1,0 +1,14 @@
+insert into usuarios
+(usunumero,usunome,usuqtlivros)
+values
+
+(1,'josé da silva',5);
+insert into usuarios
+(usunumero,usunome,usuqtlivros)
+values
+(2,'joão benedito',2);
+insert into usuarios
+
+(usunumero,usunome,usuqtlivros)
+values
+(3,'simone cristina de nogueira',1);

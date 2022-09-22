@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950267682870",
+    "firebase_url": "https://app-historia-1d5bb.firebaseio.com",
+    "project_id": "app-historia-1d5bb",
+    "storage_bucket": "app-historia-1d5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950267682870:android:260f9f8eb4f017c1fbf897",
+        "android_client_info": {
+          "package_name": "com.example.projetotcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950267682870-8i1vhm0of06hc3r1is6tcutqmhhmnvgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LjeV-KJb9fkt4AJoCg3NdLM-ZXAWeow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950267682870-8i1vhm0of06hc3r1is6tcutqmhhmnvgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

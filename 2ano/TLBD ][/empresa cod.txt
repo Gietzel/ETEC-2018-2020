@@ -1,0 +1,25 @@
+SELECT * FROM empresa.contrec;
+
+SELECT nome, vencimento, valor FROM empresa.contrec;
+SELECT nome, numero, banco FROM empresa.contrec having banco="bradesco" ;
+
+
+SELECT nome, numero, banco FROM empresa.contrec having banco="itau" ;
+
+SELECT  numero, vencimento, valor, nome FROM empresa.contrec where not banco="bradesco"and banco="unibanco" ;
+SELECT sum(valor) FROM empresa.contrec where nome="GESSO FORTE S/C LTDA." ;
+
+DELETE FROM empresa.contrec where numero="770710" ;
+
+SELECT numero, nome, descricao, valor, vencimento, banco FROM empresa.contrec order by nome ;
+SELECT nome, banco, valor, vencimento FROM empresa.contrec order by vencimento ;
+
+UPDATE empresa.contrec set banco="unibanco" where numero="200120" or numero="200125" or numero="453380";
+SELECT nome, banco FROM empresa.contrec having banco="bradesco" ;
+SELECT nome, descricao FROM empresa.contrec having descricao="caibro" ;
+SELECT nome, descricao FROM empresa.contrec having nome="FORRO E PISO AMARAL LTDA." ;
+SELECT nome, descricao FROM empresa.contrec having descricao="concreto" or descricao="rufo" ;
+SELECT valor FROM empresa.contrec order by valor asc;
+SELECT nome, descricao, banco FROM empresa.contrec having descricao="AZULEJO BRIL" or descricao="AZULEJO GOLD" or descricao="AZULEJO SILVER" ;
+SELECT sum(valor) FROM empresa.contrec where descricao="AÇO TEMPERADO" ;
+SELECT nome, banco FROM empresa.contrec where banco="bradesco" or banco="itau";

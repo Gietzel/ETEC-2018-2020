@@ -1,0 +1,13 @@
+F:\Lógica ][\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+F:\Lógica ][\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+F:\Lógica ][\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csprojAssemblyReference.cache
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Form1.resources
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.cache
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+F:\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
+F:\coisas\Lógica ][\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+F:\coisas\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+F:\coisas\Lógica ][\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb

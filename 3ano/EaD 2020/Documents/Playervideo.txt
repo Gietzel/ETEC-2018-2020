@@ -1,0 +1,6 @@
+FlutterYoutube.playYoutubeVideoByUrl(
+  apiKey: "https://raw.githubusercontent.com/menma1969/tccinfo3oano/master/History%20Hub-cb52428063c9.json",
+  videoUrl: "https://www.youtube.com/watch?v=rBiLoXhqQsY&ab_channel=BrasilEscola",
+  fullScreen: false,
+  autoPlay: false,
+);

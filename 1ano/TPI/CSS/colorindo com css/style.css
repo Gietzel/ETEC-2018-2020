@@ -1,0 +1,21 @@
+Body { background: red url(arco.png)top center;
+background-repeat: no-repeat;
+background-attachment: scroll;
+margin-top:5em;
+margin-left:3em;
+}
+
+.texto1{
+word-spacing: 1em;
+border:solid medium blue;
+}
+
+.texto2{
+letter-spacing: 1em;
+}
+
+.texto3{
+text-decoration: line-through;
+}
+
+

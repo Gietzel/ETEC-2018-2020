@@ -1,0 +1,11 @@
+F:\Visual Studio\calculadoa2\calculadoa2\bin\Debug\calculadoa2.exe.config
+F:\Visual Studio\calculadoa2\calculadoa2\obj\Debug\calculadoa2.Form1.resources
+F:\Visual Studio\calculadoa2\calculadoa2\obj\Debug\calculadoa2.Properties.Resources.resources
+F:\Visual Studio\calculadoa2\calculadoa2\obj\Debug\calculadoa2.csproj.GenerateResource.Cache
+F:\Visual Studio\calculadoa2\calculadoa2\bin\Debug\calculadoa2.exe
+F:\Visual Studio\calculadoa2\calculadoa2\bin\Debug\calculadoa2.pdb
+F:\Visual Studio\calculadoa2\calculadoa2\obj\Debug\calculadoa2.exe
+F:\Visual Studio\calculadoa2\calculadoa2\obj\Debug\calculadoa2.pdb
+F:\coisas\Lógica ][\Calculadora\calculadoa2\bin\Debug\calculadoa2.exe.config
+F:\coisas\Lógica ][\Calculadora\calculadoa2\obj\Debug\calculadoa2.exe
+F:\coisas\Lógica ][\Calculadora\calculadoa2\obj\Debug\calculadoa2.pdb

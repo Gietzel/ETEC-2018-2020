@@ -1,0 +1,79 @@
+ <html>
+<head>
+ <meta charset="utf-8"/>
+ <title>Dados Cadastrais do Componente Curricular</title>
+	<script type="text/javascript">
+	function validaCampo()
+	
+	{ 
+	
+		if (document.cadastro.codigo.value=="") 
+	
+		{ alert('O campo Código é obrigatório!');
+		return false;
+		}
+	
+		if (document.cadastro.nomecurso.value=="") 
+	
+		{ alert('O campo nome  do curso é obrigatório!');
+		return false;
+		}
+		
+		if (document.cadastro.nomecurr.value=="") 
+	
+		{ alert('O campo nome do componente curricular é obrigatório!');
+		return false;
+		}
+		else
+			return true;
+	}
+	
+	</script>
+	</head>
+	<BODY>
+	<p align="center"><table border="1" width="100%">
+	
+<tr>
+	<td><img scr="etecararaquara.png" width="740" height="180" border="0"></td>
+</tr>
+
+<tr>
+	<td bgcolor=#606060>
+	<p align="center">
+	<font color="#FFFFFF">Cadastro do Componente Curricular</font></p></td>
+</tr>
+
+<tr>
+	<td><form id="cadastro" name="cadastro" action="cadcomp.php" method="POST" onsubmit="return validaCampo(); return false;">
+
+<tr>
+	<td>
+	Código: <input type="text" size="3" name="codigo">
+	Nome do Curso: <input type="text" size="50" name="curso">	
+	</td>
+	<tr>
+	<td>
+		Nome do Comp. Curricular: <input type="text" size="50" name="curricular">
+		</td>
+		</tr>
+		
+	<tr>
+	<td align ="center"><input type="submit" value="Enviar">
+						<input type="reset" value="Limpar">
+</td>
+</tr>
+</form></td>
+</tr>
+<table></p>
+	
+	<a href='index2.html'><p align="center">Voltar para o Menu Principal</p>
+	
+</a>
+</body>
+</html>
+		
+		
+		
+		
+		
+		

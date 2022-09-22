@@ -1,0 +1,38 @@
+select * from emprestimo;
+ 
+
+select livtitulo, liveditora from livros;
+
+
+select max(exevalorpago) from exemplares;
+
+select min(exeValorPago) from exemplares;
+
+
+select * from exemplares order by exetdcompra;
+
+
+update livros set livtitulo ='C++ Guia para iniciantes' where livcodigo=2;
+
+
+use biblioteca;
+
+
+select * from exemplares;
+
+
+select count(*) from exemplares;
+
+
+alter table livros add livdescricao varchar(40) not null;
+
+alter table livros add livcomentarios varchar(40) not null;
+
+
+set sql_safe_updates = 0;
+
+
+update exemplares set exeValorPago = exeValorPago+(exeValorPago*15/100);
+
+
+alter table livros drop column livcomentarios;

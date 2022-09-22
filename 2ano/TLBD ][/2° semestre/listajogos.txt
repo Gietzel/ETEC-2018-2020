@@ -1,0 +1,96 @@
+select * from penalidades;
+ 
+
+
+select codpenalidade from penalidades;
+
+
+
+select nome from atleta, penalidades where
+(atleta.codatleta=penalidades.codatleta);
+
+
+
+select codatleta from penalidades group by codatleta having 
+count(codatleta) >2;
+
+select codatleta, nome from atleta where codatleta in(select codatleta from penalidades group by codatleta having count(codatleta)>2);
+
+
+
+select nome, cidade from atleta group by cidade order by cidade;
+
+
+
+select count(codatleta) from atleta where cidade ='Maringa';
+
+
+
+select count(codatleta) from penalidades;
+
+
+
+select max(valor) as maiorvalor from penalidades;
+
+
+
+select count(valor) as penalidades from penalidades where valor=(select min(valor) from penalidades);
+
+
+
+select distinct cidade from atleta;
+
+
+
+select codatleta from penalidades group by codatleta having sum(valor)>1500;
+
+
+
+select codatleta from penalidades group by codatleta having avg(valor)<500;
+
+
+
+select * from atleta;
+
+
+
+select cidade from atleta group by cidade having count(cidade)>=4;
+
+
+
+select codatleta from participacao group by codatleta having count(codatleta)>=2;
+
+
+
+select * from penalidades;
+
+
+
+select codatleta from penalidades group by codatleta having min(data) like '%2001%';
+
+
+
+select codatleta from penalidades group by codatleta having min(data) between '2001-01-01' and '2001-12-31';
+
+
+
+select * from participacao;
+
+select codcompeticao, codatleta, qualificacao from participacao order by codcompeticao, qualificacao;
+
+select codatleta, nome from atleta where codatleta in(select codatleta from penalidades where valor>300 group by codatleta having count(codatleta)>1);
+
+select codatleta, nome from atleta where codatleta in(select codatleta from penalidades where valor>300 group by codatleta having count(codatleta)>1) order by nome;
+
+select distinct nome from atleta a, penalidades p where (a.codatleta = p.codatleta) order by nome;
+
+
+select cidade, count(codatleta) total from atleta group by cidade;
+
+
+select codatleta,count(codpenalidade) as total from penalidades group by codatleta;
+
+
+select codatleta,sum(valor) as total from penalidades group by codatleta order by codatleta;
+
+select codatleta from penalidades group by codatleta having sum(valor) > (select avg(valor) from penalidades);

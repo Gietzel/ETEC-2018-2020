@@ -1,0 +1,118 @@
+Neste curso, considere um domínio como sendo uma área a ser protegida.
+Novas tecnologias, como GIS (Geospatial Information Systems,
+ Sistemas de informação geoespacial) e a IoT (Internet of Things),
+ surgiram. Essas novas tecnologias podem acompanhar a saúde das árvores em um bairro.
+ Essas tecnologias podem fornecer locais atualizados de veículos, dispositivos,
+ indivíduos e materiais. 
+
+Hacker white hat - gabriel pato
+padrões de gerenciamento de segurança da informação. ex; ISO 27000 
+
+Criar bancos de dados abrangentes de vulnerabilidades conhecidas
+Estabelecer sensores de aviso precoce e redes de alertas. 
+Compartilhar informações de inteligência cibernética.
+Promulgar novas leis para desencorajar
+Estabelecer padrões de gerenciamento de segurança
+
+Duas situações são especialmente críticas:
+
+Quando uma ameaça é a possibilidade de um evento prejudicial, como um ataque.
+Quando uma vulnerabilidade torna um alvo suscetível a um ataque.
+
+/
+spoofing de DNS (ou envenenamento de cache de DNS)
+sequestrar uma conexão ou negar a capacidade de um indivíduo de usar determin ataque man in the middle.
+/
+ (IoT) é o conjunto de tecnologias que permitem a conexão
+ de vários dispositivos à Internet.
+
+Um APT ocorre durante um longo período, com um alto grau de sigilo,
+ usando malware sofisticado.
+
+O gerenciamento de identidades federadas refere-se a várias empresas que 
+permitem que seus usuários usem as mesmas credenciais de identificação
+
+Os centros de chamada de emergência usam sistemas de VoIP (Voice-over-IP)
+TDoS (Telephone denial of service)
+/
+National Cybersecurity Workforce Framework
+Operar e manter, proteger e defender, Investigar Coletar e operar,
+Analisar, Supervisão e desenvolvimento, Provisionar de forma segura.
+
+Informações confidenciais são informações pertencentes a um órgão do governo,
+classificadas pelo seu nível de sensibilidade;
+ Informações pessoais são informações de identificação pessoal 
+Informações comerciais são informações que incluem qualquer coisa que possa representar um risco para a empresa, se descoberta pelo público ou por um concorrente
+
+AAA: autenticação, autorização e accounting
+Uma soma de verificação é um exemplo de uma função hash.
+
+Manutenção de equipamentos, Atualizações do sistema e do SO, Teste de backup, Planejamento contra desastres,
+ Implementações de novas tecnologias, Monitoramento de atividades incomuns, Teste de disponibilidade
+/
+Armazenamento local (DAS), armazenamento em rede (NAS),  SAN (storage area network, rede de área de armazenamento)
+Os firewalls de software controlam o acesso remoto a um software
+Sistemas de detecção de invasão baseados em host (IDS) - Um IDS gera arquivos de log e mensagens de alarme quando detecta atividade incomum.
+Sistemas de prevenção de intrusões (IPS) detectam sinais de ataques ou tráfego incomum em uma rede
+Rede privada virtual (VPN) - a segurança de uma VPN está na criptografia do conteúdo do pacote
+Network Access Control (NAC) requer um conjunto de verificações antes de permitir que um dispositivo se conecte a uma rede.
+Segurança de access point sem fio inclui a implementação de autenticação e criptografia.
+/
+Os três principais serviços de computação em nuvem são: Software as a Service (SaaS) Infrastructure as a Service (IaaS)  Platform as a Service (PaaS)
+política de uso aceitável (AUP). Esse componente define o que os usuários podem ou não fazer nos vários componentes do sistema.
+Diretrizes: sugestões sobre como fazer as coisas de forma mais eficiente e com segurança.
+Os controles ISO 27002 proporcionam orientação técnica.
+/
+Software mal-intencionado ou malware - worms, cavalos de Troia, ransomware, spyware, adware, scareware
+Os worms normalmente deixam a rede mais lenta.
+Um cavalo de Troia difere de um vírus porque o cavalo de Troia se liga a arquivos não executáveis
+bomba lógica é um programa mal-intencionado que utiliza um gatilho para ativar o código malicioso
+O ransomware aprisiona um sistema de computador ou os dados nele encontrados até que a vítima faça um pagamento.
+um rootkit modifica o sistema operacional para criar um backdoor.
+o scareware persuade o usuário a executar uma ação específica por medo (ameaça).
+Spear phishing é um ataque de phishing altamente direcionado
+Vishing usa a tecnologia VoIP (mensagem gravada)
+Smishing usa mensagens de texto em celulares.
+Pharming é um site falso na tentativa de enganar.
+Whaling é um ataque de phishing que buscam vítimas de alto perfil em uma empresa
+Flash Player; plugin que pode causar uma falha no sistema ou permitir que um criminoso assuma o controle do sistema afetado
+envenenamento de SEO é para aumentar o tráfego em sites maliciosos que podem hospedar malware ou executar engenharia social.
+Um download drive-by é um programa que é transferido para o computador automaticamente
+ ISPs filtram os spams
+Shoulder Surfing; roubar informações pessoalmente.
+Piggybacking e tailgating; juntamente com uma pessoa autorizada, para entrar em um local protegido ou uma área restrita.
+/
+ Existem dois tipos principais de ataque de DoS:
+O objetivo de um ataque de negação de serviço é negar acesso aos usuários autorizados, tornando a rede indisponível
+Quantidade exorbitante de tráfego e Pacotes formatados maliciosamente 
+/
+Sniffing; os invasores examinam todo o tráfego de rede pelo NIC
+Spoofing é um ataque de representação e tira proveito de uma relação de confiança entre os dois sistemas.
+Keyboard Logging é um programa de software que grava ou registra os toques de teclas do usuário do sistema.]
+/
+o Grayware pode rastrear a localização do usuário.(celular)
+SMiShing; usa o Serviço SMS para enviar mensagens falsas.
+access point; o invasor da rede cria na rede acessada, os criminosos podem analisar o tráfego e executar ataques de MitM.
+Bluejacking; enviar mensagens não autorizadas para outro dispositivo Bluetooth.
+bluesnarfing; o invasor rouba as informações da vítima via Bluetooth.
+WEP - não seguro, WPA e WPA2 surgiram p substituir
+WPA2 está suscetível ao ataque porque os criminosos virtuais podem analisar os pacotes transmitidos entre o access point e um usuário legítimo.
+O Cross-site scripting permite que os criminosos injetem scripts em páginas da Web 
+uma injeção de XML é um ataque que pode corromper os dados de um site.
+Os buffers são áreas de memórias alocadas a um aplicativo.
+buffer overflow - sobrecarga
+Meterpreter é um módulo de exploit dentro do Metasploit(ferramenta exe.).
+ O Meterpreter permite que os criminosos gravem suas próprias extensões como um objeto compartilhado.
+ Os criminosos carregam e injetam esses arquivos em um processo em execução no alvo
+Java é a segunda maior vulnerabilidade de segurança, juntamente com o plugin do Flash da Adobe.
+/
+Criptografia: Cítala, Cifra de César, Cifra de Vigenère, Máquina Enigma
+Transposição – as letras são reorganizadas; Substituição – as letras são substituídas;
+Cifra de uso único – o texto claro, combinado com uma chave secreta, cria um novo caractere que é combinado com o texto claro para gerar o texto codificado 
+Algoritmos simétricos - Esses algoritmos usam a mesma chave para criptografar e descriptografar dados. 
+Algoritmos assimétricos - A criptografia assimétrica usa uma chave para criptografar os dados e uma chave diferente para descriptografá-los. 
+/
+criptografia assimétrica RSA (Rivest-Shamir-Adleman) - Usa o produto de dois números primos muito grandes
+RSA (Rivest-Shamir-Adleman) - Usa o produto de dois números primos muito grandes, com um tamanho igual de 100 a 200 dígitos. Os navegadores usam RSA para estabelecer uma conexão segura.
+Diffie-Hellman; ElGamal; Criptografia de curva elíptica (ECC) 
+/

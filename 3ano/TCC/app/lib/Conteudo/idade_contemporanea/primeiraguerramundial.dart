@@ -1,0 +1,154 @@
+import 'package:flutter/material.dart';
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
+
+YoutubePlayerController _controller = YoutubePlayerController(
+  initialVideoId: 'EEOYAN2CWwM',
+  flags: YoutubePlayerFlags(
+    hideControls: false,
+    autoPlay: false,
+    controlsVisibleAtStart: true,
+    mute: false,
+  ),
+);
+String url = 'https://i.ytimg.com/vi/eQ70hLd0r5E/maxresdefault.jpg';
+String url2 =
+    'https://cdn.domtotal.com/img/noticias/2018-11/1308600_383616.jpg';
+
+class PrimeiraGuerra extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        body: SingleChildScrollView(
+          child: Container(
+            color: Colors.grey,
+            child: Container(
+              padding: EdgeInsets.fromLTRB(0, 21, 0, 0),
+              child: Card(
+                shadowColor: Colors.black,
+                semanticContainer: true,
+                clipBehavior: Clip.antiAliasWithSaveLayer,
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(20)),
+                child: Container(
+                  child: Column(
+                    children: [
+                      Padding(
+                        padding: EdgeInsets.all(20),
+                      ),
+                      Container(
+                        child: Text(
+                          'Primeira Guerra Mundial',
+                          style: TextStyle(
+                              fontWeight: FontWeight.bold, fontSize: 25),
+                          textAlign: TextAlign.center,
+                        ),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        width: double.infinity,
+                        height: 300,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: NetworkImage(url), fit: BoxFit.cover)),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        child: Text(
+                            '   A Primeira Guerra Mundial (1914-1918) foi o resultado dos atritos permanentes provocados pelo imperialismo entre as grandes potências europeias, teve início no dia 28 de julho de 1914 e durou até 11 de novembro de 1918, com a rendição alemã.   ',
+                            style: TextStyle(fontSize: 16)),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                          child: Text(' Antecedentes  ',
+                              style: TextStyle(
+                                  fontWeight: FontWeight.bold, fontSize: 18))),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        child: Text(
+                            '  Desde o final do século XIX, a Europa vivia um clima de insegurança. Por esta razão foi criado um sistema de alianças e acordos que dividia o continente em dois blocos, a fim de garantir proteção e apoio militar mútuo em caso de guerra:\n - Tríplice Aliança - Império Alemão, Império Austro-Húngaro e Itália\n - Tríplice Entente - França, Reino Unido e Império Russo',
+                            style: TextStyle(fontSize: 16)),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                          child: Text('Causas ',
+                              style: TextStyle(
+                                  fontWeight: FontWeight.bold, fontSize: 18))),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        child: Text(
+                            '  - O estopim foi o assassinato do herdeiro do trono do Império Austro-Húngaro.\n - O Progresso do capitalismo.\n - O imperialismo e o colonialismo.\n - O expansionismo alemão.\n - O antigermanismo francês, em consequência da Guerra Franco-Prussiana (1870-1871).\n - A rivalidade russo-germânica.\n - O antigermanismo inglês, resultado da concorrência industrial alemã. ',
+                            style: TextStyle(fontSize: 16)),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                          child: Text('Consequências ',
+                              style: TextStyle(
+                                  fontWeight: FontWeight.bold, fontSize: 18))),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        child: Text(
+                            ' - 13 milhões de soldados e civis morreram no conflito e outros 20 milhões foram feridos ou mutilados.\n - Os países derrotados entraram em grandes crises.\n - O Tratado de Versalhes assinado em 1919, na qual a Alemanha foi considerada responsável pela guerra e deveria pagar indenização aos países vitoriosos.\n - Por fim, houve a criação da Liga das Nações, uma organização internacional com objetivo de reunir as potências vencedoras da Primeira Guerra Mundial para negociar acordo de paz e evitar novos conflitos mundiais.\n Após o ataque de um navio brasileiro carregado de café por navio alemães, o Brasil declarou guerra à Tríplice Aliança.  A participação do Brasil na Primeira Guerra Mundial foi tímida e aconteceu apenas no último ano, se deu através do envio de equipes médicas, de armamentos e equipamentos de soldados, além da exportação de produtos agrícolas como café, borracha, açúcar e demais gêneros aos aliados da Entente.',
+                            style: TextStyle(fontSize: 16)),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        width: double.infinity,
+                        height: 300,
+                        decoration: BoxDecoration(
+                            image: DecorationImage(
+                                image: NetworkImage(url2), fit: BoxFit.cover)),
+                      ),
+                      Padding(
+                        padding: EdgeInsets.all(6),
+                      ),
+                      Container(
+                        width: double.infinity,
+                        height: 300,
+                        child: YoutubePlayer(
+                          controller: _controller,
+                          bottomActions: [
+                            FullScreenButton(),
+                            CurrentPosition(),
+                            ProgressBar(
+                                isExpanded: true,
+                                colors: ProgressBarColors(
+                                    playedColor: Colors.red,
+                                    backgroundColor: Colors.grey,
+                                    handleColor: Colors.red)),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}

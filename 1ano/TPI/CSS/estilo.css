@@ -1,0 +1,33 @@
+p {
+	color: blue;
+	background-color: yellow;
+	font-family: monospace;
+	text-align: center;
+	line-height:50px;
+	font-size: 55pt;
+	font-variant: small-caps;
+	font-style: italic;
+/*tamanho da altura de cada linha */
+	letter-spacing:3px;
+/*tamanho da altura de cada letra */
+	word-spacing:50px;
+/*tamanho da altura de cada palavra */
+
+
+}
+
+body {
+	font-family:"Times New Roman","Helvetica",sans-serif;
+}
+
+h2 {
+	font-family: sans-serif;
+	font-weight: 1000;
+}
+
+h1 {
+	font-family: "Jokerman";
+	text-intent: 40px;
+
+
+}

@@ -1,0 +1,10 @@
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.csprojAssemblyReference.cache
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.Form1.resources
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.Properties.Resources.resources
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.csproj.GenerateResource.cache
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.csproj.CoreCompileInputs.cache
+F:\Lógica ][\OlaMundo\soma\soma\bin\Debug\soma.exe.config
+F:\Lógica ][\OlaMundo\soma\soma\bin\Debug\soma.exe
+F:\Lógica ][\OlaMundo\soma\soma\bin\Debug\soma.pdb
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.exe
+F:\Lógica ][\OlaMundo\soma\soma\obj\Debug\soma.pdb

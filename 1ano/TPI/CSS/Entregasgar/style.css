@@ -1,0 +1,91 @@
+#menuhor {
+
+	border:none ;
+	margin: 0;
+	font: 15px Arial, sans-serif;
+
+}
+#menuhor li {
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+#menuhor li a {
+	height:1px;
+	padding:0;
+	margin: 1px solid #f00;
+	background: #999;
+	text-decoration: none;
+}
+#menuhor li a:link {
+	color: #fff;
+}
+#menuhor li a:visited {
+	color: #fff;
+}
+#menuhor li a:hover {
+	background: #ccc;
+	color: #000;
+	border-color: #000;
+}
+
+
+
+.image img{
+	width:50px;
+	height:50px;
+}
+
+
+.app {
+	display: flex;
+}
+
+
+ 
+.noticia{
+border:solid medium blue;
+
+	text-align:center;
+	width:700px;
+	height:700px;
+align:center;
+}
+
+.crima{
+border:solid medium blue;
+	text-align:center;
+	width:700px;
+	height:700px;
+align:center;
+
+}
+
+.sporti{
+border:solid medium blue;
+	text-align:center;
+	width:700px;
+	height:700px;
+align:center;
+
+
+}
+
+.pulitika{
+border:solid medium blue;
+	text-align:center;
+	width:700px;
+	height:700px;
+align:center;
+
+}
+
+.description{
+border:solid medium red;
+
+}
+
+.screenshot img{
+	width:400px;
+	height:200px;
+}

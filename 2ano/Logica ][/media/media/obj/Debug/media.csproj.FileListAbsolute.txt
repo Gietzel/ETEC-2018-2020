@@ -1,0 +1,10 @@
+F:\Lógica ][\OlaMundo\media\media\bin\Debug\media.exe.config
+F:\Lógica ][\OlaMundo\media\media\bin\Debug\media.exe
+F:\Lógica ][\OlaMundo\media\media\bin\Debug\media.pdb
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.Properties.Resources.resources
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.csproj.GenerateResource.cache
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.csproj.CoreCompileInputs.cache
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.exe
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.pdb
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.csprojAssemblyReference.cache
+F:\Lógica ][\OlaMundo\media\media\obj\Debug\media.Form1.resources

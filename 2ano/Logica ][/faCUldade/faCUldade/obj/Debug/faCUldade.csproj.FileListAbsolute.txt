@@ -1,0 +1,12 @@
+F:\Lógica ][\faCUldade\faCUldade\bin\Debug\faCUldade.exe.config
+F:\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.csprojResolveAssemblyReference.cache
+F:\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.Form1.resources
+F:\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.Properties.Resources.resources
+F:\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.csproj.GenerateResource.Cache
+F:\Lógica ][\faCUldade\faCUldade\bin\Debug\faCUldade.exe
+F:\Lógica ][\faCUldade\faCUldade\bin\Debug\faCUldade.pdb
+F:\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.exe
+F:\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.pdb
+F:\coisas\Lógica ][\faCUldade\faCUldade\bin\Debug\faCUldade.exe.config
+F:\coisas\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.exe
+F:\coisas\Lógica ][\faCUldade\faCUldade\obj\Debug\faCUldade.pdb

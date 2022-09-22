@@ -1,0 +1,15 @@
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\bin\Debug\cinema.exe.config
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.Form1.resources
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.Properties.Resources.resources
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.csproj.GenerateResource.Cache
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\bin\Debug\cinema.exe
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\bin\Debug\cinema.pdb
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.exe
+F:\coisas\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.pdb
+F:\Lógica ][\ExerciciosLista1\cinema\cinema\bin\Debug\cinema.exe.config
+F:\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.exe
+F:\Lógica ][\ExerciciosLista1\cinema\cinema\obj\Debug\cinema.pdb
+F:\Lógica ][\ExerciciosLista1\Ex5L1 (cinema)\cinema\bin\Debug\cinema.exe.config
+F:\Lógica ][\ExerciciosLista1\Ex5L1 (cinema)\cinema\obj\Debug\cinema.exe
+F:\Lógica ][\ExerciciosLista1\Ex5L1 (cinema)\cinema\obj\Debug\cinema.pdb

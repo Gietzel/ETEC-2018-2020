@@ -1,0 +1,9 @@
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\bin\Debug\lanchonete.exe.config
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\obj\Debug\lanchonete.csprojResolveAssemblyReference.cache
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\obj\Debug\lanchonete.Form1.resources
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\obj\Debug\lanchonete.Properties.Resources.resources
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\obj\Debug\lanchonete.csproj.GenerateResource.Cache
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\bin\Debug\lanchonete.exe
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\bin\Debug\lanchonete.pdb
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\obj\Debug\lanchonete.exe
+F:\coisas\Lógica ][\ExerciciosLista1\lanchonete\lanchonete\obj\Debug\lanchonete.pdb

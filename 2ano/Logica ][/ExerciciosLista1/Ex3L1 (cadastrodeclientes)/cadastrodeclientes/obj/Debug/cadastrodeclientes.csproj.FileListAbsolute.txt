@@ -1,0 +1,19 @@
+F:\coisas\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\bin\Debug\cadastrodeclientes.exe.config
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\bin\Debug\cadastrodeclientes.exe.config
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\bin\Debug\cadastrodeclientes.exe
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\bin\Debug\cadastrodeclientes.pdb
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\obj\Debug\cadastrodeclientes.csprojResolveAssemblyReference.cache
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\obj\Debug\cadastrodeclientes.Form1.resources
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\obj\Debug\cadastrodeclientes.Properties.Resources.resources
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\obj\Debug\cadastrodeclientes.csproj.GenerateResource.Cache
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\obj\Debug\cadastrodeclientes.exe
+F:\Lógica ][\ExerciciosLista1\cadastrodeclientes\cadastrodeclientes\obj\Debug\cadastrodeclientes.pdb
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\bin\Debug\cadastrodeclientes.exe.config
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\obj\Debug\cadastrodeclientes.exe
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\obj\Debug\cadastrodeclientes.pdb
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\obj\Debug\cadastrodeclientes.csprojResolveAssemblyReference.cache
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\obj\Debug\cadastrodeclientes.Form1.resources
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\obj\Debug\cadastrodeclientes.Properties.Resources.resources
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\obj\Debug\cadastrodeclientes.csproj.GenerateResource.Cache
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\bin\Debug\cadastrodeclientes.exe
+F:\Lógica ][\ExerciciosLista1\Ex3L1 (cadastrodeclientes)\cadastrodeclientes\bin\Debug\cadastrodeclientes.pdb

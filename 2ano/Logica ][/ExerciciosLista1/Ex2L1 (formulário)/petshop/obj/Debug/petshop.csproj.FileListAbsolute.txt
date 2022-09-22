@@ -1,0 +1,11 @@
+F:\coisas\Lógica ][\ExerciciosLista1\petshop\petshop\bin\Debug\petshop.exe.config
+F:\coisas\Lógica ][\ExerciciosLista1\Ex2L1\petshop\bin\Debug\petshop.exe.config
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\bin\Debug\petshop.exe.config
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\bin\Debug\petshop.exe
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\bin\Debug\petshop.pdb
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\obj\Debug\petshop.csprojResolveAssemblyReference.cache
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\obj\Debug\petshop.Form1.resources
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\obj\Debug\petshop.Properties.Resources.resources
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\obj\Debug\petshop.csproj.GenerateResource.Cache
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\obj\Debug\petshop.exe
+F:\Lógica ][\ExerciciosLista1\Ex2L1\petshop\obj\Debug\petshop.pdb

@@ -1,0 +1,43 @@
+"antiguidade oriental - egito", 			antiguidadeegito
+    "antiguidade oriental - geral",			antiguidadegeral
+    "antiguidade oriental - mesopotâmia"		antiguidademeso
+    "balaiada",						balaiada
+    "cabanagem",					cabanagem
+    "chegada da familia real",				chegadafamiliareal	
+    "constituição de 1824",				const1824
+    "guerra do afeganitão",				afeganistao
+    "guerra da coréia",					coreia
+    "guerra fria",					guerrafria
+    "guerra do vietnã",					guerradovietna
+    "inconfidência mineira",				inconfidencia
+    "marcos recentes da atualidade",			marcosatuais
+    "periodo regencial",				periodoregencial
+    "primeiro reinado",					primeiroreinado
+    "revolução chinesa",				revolucaochinesa
+    "revolução pernambucana",				revolucaopernambucana
+    "segundo reinado",					segundoreinado
+    "idade média",					idademedia
+    "reforma protestante",				reformaprotestante
+    "renascimento",					renascimento
+    "revoluções inglesas"				revolucoesinglesas
+    "crise de 29"					crisede29
+    "guerra dos farrapos"				farrapos
+    "america espanhola"					americaespanhola
+    "revolução russa"					revolucaorussa	
+    "segunda guerra mundial"				segundaguerra
+    "primeira guerra mundial"				primeiraguerra
+    "movimentos vanguardistas na arte"			movimentosvanguarda
+    "neocolonialismo"					neocolonialismo
+    "proclação da república"				republica
+    "república oligárquica"				oligarquia
+    "movimentos sociais urbanos durante a primeira república"	movimentosurbanos
+    "movimentos sociais gerais durante a primeira república"	movimentosgerais
+    "crise na república oligárquica"			criseoligarquia
+    "governo provisório"				govprovisorio
+    "era vargas constitucional"				vargasconstitucional
+    "era vargas estado novo"				vargasnovo
+    "desenvolvimentismo de jk"				jk
+    "golpe de 64"					golpe64
+    "era napoleônica"					eranapoleonica
+    "ilumismo"						iluminismo
+    "revolução industrial"				revolucaoindustrial

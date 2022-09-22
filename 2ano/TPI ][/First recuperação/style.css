@@ -1,0 +1,40 @@
+#menuhor {
+
+	border:none ;
+	margin: 0;
+	font: 15px Arial, sans-serif;
+
+}
+#menuhor li {
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+#menuhor li a {
+	height:1px;
+	padding:0;
+	margin: 1px solid #f00;
+	background: #999;
+	text-decoration: none;
+}
+#menuhor li a:link {
+	color: #fff;
+}
+#menuhor li a:visited {
+	color: #fff;
+}
+#menuhor li a:hover {
+	background: #ccc;
+	color: #000;
+	border-color: #000;
+}
+p {
+	font-family:Papyrus;
+	text-align: center;
+	line-height:50px;
+	font-size: 55pt;
+/*tamanho da altura de cada linha */
+
+
+
+}

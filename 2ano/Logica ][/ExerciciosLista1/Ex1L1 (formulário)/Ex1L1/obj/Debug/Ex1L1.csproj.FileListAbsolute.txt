@@ -1,0 +1,19 @@
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\bin\Debug\Ex1L1.exe.config
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.csprojResolveAssemblyReference.cache
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.Form1.resources
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.Properties.Resources.resources
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.csproj.GenerateResource.Cache
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\bin\Debug\Ex1L1.exe
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\bin\Debug\Ex1L1.pdb
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.exe
+F:\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.pdb
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\bin\Debug\Ex1L1.exe.config
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.exe
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.pdb
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.csprojResolveAssemblyReference.cache
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.Form1.resources
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.Properties.Resources.resources
+F:\coisas\Lógica ][\ExerciciosLista1\Ex1L1\Ex1L1\obj\Debug\Ex1L1.csproj.GenerateResource.Cache
+F:\Lógica ][\ExerciciosLista1\Ex1L1 (formulário)\Ex1L1\bin\Debug\Ex1L1.exe.config
+F:\Lógica ][\ExerciciosLista1\Ex1L1 (formulário)\Ex1L1\obj\Debug\Ex1L1.exe
+F:\Lógica ][\ExerciciosLista1\Ex1L1 (formulário)\Ex1L1\obj\Debug\Ex1L1.pdb

@@ -1,0 +1,106 @@
+ <html lang="pt-br">
+<head><!--cabeçalho-->
+ <meta charset="utf-8"/>
+ <!--título-->
+ <title>Dados Cadastrais do Professor</title>
+	<script type="text/javascript">
+	function validaCampo()
+	
+	{ 
+	
+		if (document.cadastro.codigo.value=="") 
+	
+		{ alert('O campo Código é obrigatório!');
+		return false;
+		}
+	
+		if (document.cadastro.nome.value=="") 
+	
+		{ alert('O campo Nome é obrigatório!');
+		return false;
+		}
+		
+		if (document.cadastro.email.value=="") 
+	
+		{ alert('O campo E-mail é obrigatório!');
+		return false;
+		}
+	
+	<!-- Fim do JavaScript que validará os campos obrigatórios --!>
+</script>
+</HEAD>
+<body>
+<p align="center"><table border="1" width="100%">
+
+<tr>
+	<td><img scr="etecararaquara.png" width="740" height="180" border="0"></td>
+</tr>
+
+<tr>
+	<td bgcolor=#606060>
+	<p align="center">
+	<font color="#FFFFFF">Cadastro do Professor</font></p></td>
+</tr>
+
+<tr>
+	<td><form id="cadastro" name="cadastro" action="cadprof.php" method="POST" onsubmit="return validaCampo(); return false;">
+
+<tr>
+	<td>
+	Código: <input type="text" size="3" name="codigo">
+	Nome Etec: <input type="text" size="50" name="nome">	
+	</td>
+</tr>
+
+<tr>
+	<td>Endereco: <input type="text" size="50" name="endereco">
+		  Cidade: <input type="text" size="50" name="cidade">	
+			  UF:
+			     <select name="estado">
+				 <option>Selecione...</option>
+	<option value="AC">Acre</option>
+    <option value="AL">Alagoas</option>
+    <option value="AP">Amapá</option>
+    <option value="AM">Amazonas</option>
+    <option value="BA">Bahia</option>
+    <option value="CE">Ceará</option>
+    <option value="DF">Distrito Federal</option>
+    <option value="ES">Espírito Santo</option>
+    <option value="GO">Goiás</option>
+    <option value="MA">Maranhão</option>
+    <option value="MT">Mato Grosso</option>
+    <option value="MS">Mato Grosso do Sul</option>
+    <option value="MG">Minas Gerais</option>
+    <option value="PA">Pará</option>
+    <option value="PB">Paraíba</option>
+    <option value="PR">Paraná</option>
+    <option value="PE">Pernambuco</option>
+    <option value="PI">Piauí</option>
+    <option value="RJ">Rio de Janeiro</option>
+    <option value="RN">Rio Grande do Norte</option>
+    <option value="RS">Rio Grande do Sul</option>
+    <option value="RO">Rondônia</option>
+    <option value="RR">Roraima</option>
+    <option value="SC">Santa Catarina</option>
+    <option value="SP">São Paulo</option>
+    <option value="SE">Sergipe</option>
+    <option value="TO">Tocantins</option>
+				 
+			</select>
+	</td>
+</tr>
+
+<tr>
+
+		<td align="center">
+		<input type="submit" name="inserir" value="Inserir">
+		<input type="reset" value="Limpar"></td>
+</tr>
+</form></td>
+</tr>
+</table></p>
+
+	<a href='index2.html'><p align="center">Voltar para o Menu Principal</p></a>
+	
+</body>
+</html>

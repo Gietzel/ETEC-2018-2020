@@ -1,0 +1,32 @@
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\centropaulasouza.exe.config
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\centropaulasouza.exe
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\centropaulasouza.pdb
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.csprojResolveAssemblyReference.cache
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.Form1.resources
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.loading.resources
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.Properties.Resources.resources
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.csproj.GenerateResource.Cache
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.exe
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.pdb
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.cadastrodealuno.resources
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.choice.resources
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.frmdisciplina.resources
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\Google.Protobuf.dll
+F:\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\MySql.Data.xml
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\centropaulasouza.exe.config
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\centropaulasouza.exe
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\centropaulasouza.pdb
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\Google.Protobuf.dll
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\bin\Debug\MySql.Data.xml
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.csprojAssemblyReference.cache
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.cadastrodealuno.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.choice.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.Form1.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.frmdisciplina.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.loading.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.Properties.Resources.resources
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.csproj.GenerateResource.cache
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.csproj.CoreCompileInputs.cache
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.csproj.CopyComplete
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.exe
+C:\Users\55169\Desktop\TI\2° Ano\Lógica ][\LPOO COM TLBD\centropaulasouza\centropaulasouza\obj\Debug\centropaulasouza.pdb

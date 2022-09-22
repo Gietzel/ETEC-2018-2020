@@ -1,0 +1,9 @@
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\bin\Debug\cadastrodeFaculdades.exe.config
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\obj\Debug\cadastrodeFaculdades.csprojResolveAssemblyReference.cache
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\obj\Debug\cadastrodeFaculdades.Form1.resources
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\obj\Debug\cadastrodeFaculdades.Properties.Resources.resources
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\obj\Debug\cadastrodeFaculdades.csproj.GenerateResource.Cache
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\bin\Debug\cadastrodeFaculdades.exe
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\bin\Debug\cadastrodeFaculdades.pdb
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\obj\Debug\cadastrodeFaculdades.exe
+F:\Lógica ][\cadastrodeFaculdades\cadastrodeFaculdades\obj\Debug\cadastrodeFaculdades.pdb

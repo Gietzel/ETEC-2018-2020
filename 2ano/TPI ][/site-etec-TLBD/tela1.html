@@ -1,0 +1,110 @@
+<html lang="pt-br">
+<head><!--cabeçalho-->
+ <meta charset="utf-8"/>
+ <!--título-->
+ <title>Dados Cadastrais da ETEC</title>
+ <--!validação em javascript !-->
+	<script type="text/javascript">
+	function validaCampo()
+	
+	{ 
+	
+		if (document.cadastro.nome.value.length == 0) 
+	
+		{ alert('Por Favor, preencha seu nome!');
+		return false;
+		}
+	
+		if (document.cadastro.email.value.length == 0) 
+	
+		{ alert('Por Favor, preencha o campo de email!');
+		return false;
+		}
+		
+		if (document.cadastro.endereco.value.length == 0) 
+	
+		{ alert('Por Favor, preencha o campo de endereço!');
+		return false;
+		}
+	
+		if (document.cadastro.cidade.value.length == 0) 
+	
+		{ alert('Por Favor, preencha a cidade!');
+		return false;
+		}
+
+		if (document.cadastro.estado.value.length == 0) 
+	
+		{ alert('Por Favor, preencha seu estado!');
+		return false;
+		}
+
+		if (document.cadastro.cep.value.length == 0) 
+	
+		{ alert('Por Favor, preencha seu CEP!');
+		return false;
+		}
+
+		if (document.cadastro.mensagem.value.length == 0) 
+	
+		{ alert('Por Favor, preencha o campo de mensagem!');
+		return false;
+		}
+		
+		else
+		return true;
+	}
+	
+	<!-- Fim do JavaScript que validará os campos obrigatórios --!>
+</script>
+</HEAD>
+<body>
+<p align="center"><table border="1" width="100%">
+
+<tr>
+	<td><img scr="etecararaquara.png" width="740" height="180" border="0"></td>
+</tr>
+
+<tr>
+	<td bgcolor=#606060><p align="center">
+	<font color="#FFFFFF">Cadastro da ETEC</font></p></td>
+</tr>
+
+<tr>
+	<td><form id="cadastro" name="cadastro" action="cadetec.php" method="POST" onsubmit="return validaCampo(); return false;">
+
+<tr>
+	<td>
+	Código: <input type="text" size="3" name="codigo">
+	Nome Etec: <input type="text" size="50" name="nome">	
+	</td>
+</tr>
+
+<tr>
+	<td>Endereco: <input type="text" size="50" name="endereco">
+		  Cidade: <input type="text" size="50" name="cidade">	
+			  UF:
+			     <select name="estado">
+				 <option>Selecione...</option>
+				 <option value="SP">SP</option>
+				 <option value="RJ">RJ</option>
+				 <option value="MG">MG</option>
+				 
+			</select>
+	</td>
+</tr>
+
+<tr>
+
+		<td align="center">
+		<input type="submit" name="inserir" value="Inserir">
+		<input type="reset" value="Limpar"></td>
+</tr>
+</form></td>
+</tr>
+</table></p>
+
+	<a href='index2.html'><p align="center">Voltar para o Menu Principal</p></a>
+	
+</body>
+</html>

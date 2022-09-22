@@ -1,0 +1,58 @@
+1
+
+void meuNome(){
+}
+String grupo(String nome, Function f){
+  f();
+  return "Integrantes do Grupo: $nome";
+}
+ main() {
+   
+   String grupo1 = grupo("Diogo Fernandes, Gabriel Sandu, Gabriel Gietzel e Kauã Vöigt", meuNome);
+   
+    print(grupo1);
+ }
+
+2--------------------------------------------------------------------------------
+
+// Declarando função
+int timesFive(int x) {
+  return x * 5;
+}
+
+main() {
+  print("O número digitado (8) multiplicado por cinco é igual a: ${timesFive(8)}");
+}
+
+3----------------------------------------------------------------------------------
+
+void ableToVote(String nome, {int idade}) {
+  ableToVote("Gietzel", idade: 17);
+
+  if (idade < 16) {
+    print(
+        "$nome, infelizmente você não pode votar ainda com $idade anos, apenas com 16 ou mais. ");
+  } else {
+    print("$nome, você já pode votar! =)");
+  }
+}
+
+4----------------------------------------------------------------------------------
+
+// Declarando função
+int squaredNum(int x) {
+  return x * x;
+}
+
+main() {
+  print("O número digitado (3) ao quadrado é igual a: ${squaredNum(3)}");
+}
+
+5----------------------------------------------------------------------------------
+
+import 'dart:convert';
+void main() { 
+   var arr = ['São Paulo','Palmeiras','Corinthians','Santos']; 
+   print(arr.last);// last element of array
+
+}
